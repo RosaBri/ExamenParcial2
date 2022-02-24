@@ -13,4 +13,4 @@ Desarrollo del examen parcial 2 de bioinformatica
 ### Disco Duro: 250GB.
 ### Pantalla: LED 16'' HD.
 ## Programas utilizados
-### Python, Anaconda, GitBash
+### Python, Anaconda, GitHub
