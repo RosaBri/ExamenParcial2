@@ -1,23 +1,46 @@
 # GBI6_ExamenPython
+# ExamenParcial2
 
-# Datos personales
-- Nombre: Anderso Randy Yumbo Licuy
-- Edad: 21
-- Cedula: 1550006009
-- Direccion: Archidona-Barrio Lindo
-# Características del computador
-- Nombre del dispositivo: Pocoyo23
-- Procesador:  Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz   2.11 GHz
-- RAM instalda: 8,00 GB (7,78 GB usable)
-- Identificador de dispositivo: A0686F35-7EA9-46CB-B801-24EB743C5B6F
-- Tipo de sistema: Sistema operativo de 64 bits, procesador basado en x64 
- 
+*Desarrollo del examen parcial 2 de bioinformática*
 
-# Versión de Python/Anaconda
-- Python: 3
-- Anaconda: 3
-# Módulos/paquetes y utilizados
-Explicación de la data utilizada
-- pubmed-EcuadorGen-set: aqui se encuentra la data para resolver el ejercicio 1 y 2, se encuentra informacion de los autores 
-- alineación: esta la secuencia genetica de mi especie investigada.
-- sequence: lo descargue de NCBI y elegi los 10 primeros
+##Lidia Rosa Briñoles Villalva
+
+### CI 172486149-5
+
+### Fecha de nacimiento: 01/11/1999
+
+### Número de tlf. 0960834693
+
+### Tipo de sangre: AB+
+
+### Estudia: Universidad Regional Amazónica Ikiam
+
+## Caracteristicas del computador
+
+### Computadora LG Q-One 5905
+
+### Procesador: AMD Ryzen 5 3400G con Radeon Vega Graphics 3.70 GHz
+
+###Memoria RAM: 8GB
+
+### Disco Duro: 250GB.
+
+### Pantalla: LED 16'' HD.
+
+##Programas utilizados
+
+### Pitón, Anaconda, GitBash
+
+## Versión de Python/Anaconda
+
+### Pitones: 3
+
+### Anaconda: 3
+
+## Modulos/paquetes y usados/Explicacion de los datos utilizados
+
+### pubmed-EcuadorGen-set: aqui se encuentra la data para resolver el ejercicio 1 y 2, se encuentra informacion de los autores
+
+### Alineación: es la secuencia genetica de mi especie investigada.
+
+### Secuencia: lo descarga de NCBI y elegi los 10 primeros
