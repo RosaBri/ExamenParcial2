@@ -3,7 +3,7 @@
 
 *Desarrollo del examen parcial 2 de bioinformática*
 
-##Lidia Rosa Briñoles Villalva
+## Lidia Rosa Briñoles Villalva
 
 ### CI 172486149-5
 
@@ -21,13 +21,13 @@
 
 ### Procesador: AMD Ryzen 5 3400G con Radeon Vega Graphics 3.70 GHz
 
-###Memoria RAM: 8GB
+### Memoria RAM: 8GB
 
 ### Disco Duro: 250GB.
 
 ### Pantalla: LED 16'' HD.
 
-##Programas utilizados
+## Programas utilizados
 
 ### Pitón, Anaconda, GitBash
 
